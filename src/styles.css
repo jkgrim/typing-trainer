@@ -1,0 +1,18 @@
+.App {
+  font-family: monospace;
+  text-align: center;
+}
+
+.to-type {
+  display: inline-block;
+  background-color: #eee;
+  padding: 20px 30px;
+  border-radius: 10px;
+  border: 1px solid #999;
+  font-size: 20px;
+}
+
+.error {
+  margin-top: 15px;
+  color: tomato;
+}
