@@ -49,8 +49,8 @@ export default function App() {
     <div className="App">
       <h1>Type this:</h1>
       <div className="to-type">{char}</div>
-      <div className="error">{errorMessage}</div>
       <div className="streak">Current Streak: {streak}</div>
+      <div className="error">{errorMessage}</div>
     </div>
   );
 }
